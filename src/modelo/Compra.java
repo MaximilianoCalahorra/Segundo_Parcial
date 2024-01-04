@@ -60,6 +60,7 @@ public class Compra
 	}
 	
 	//Precio total:
+	//CU 6:
 	public double precioTotal() 
 	{
 		double precioArticulo = articulo.getPrecio();
